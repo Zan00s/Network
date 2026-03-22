@@ -6,9 +6,9 @@ IP, ARP, ICMP, multicast
 
  Задания и решения
 
-| 1 | Расчет адресов (binary, subnetting) |src/ip-1.md|
-| 3 | Multicast-запросы + анализ в Wireshark | src/multicast.md |
-| 4 | ARP-запросы + анализ в Wireshark | src/arp.md|
+| 1 | Расчет адресов (binary, subnetting) |ip-1.md|
+| 3 | Multicast-запросы + анализ в Wireshark | multicast.pcap |
+| 4 | ARP-запросы + анализ в Wireshark | arp.md|
 
 
  Как запустить / воспроизвести
