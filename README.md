@@ -4,11 +4,12 @@ IP, ARP, ICMP, multicast
  Проект по изучению базовых сетевых протоколов: IP, ARP, ICMP, multicast.  
  Среда: GNS3 + Wireshark.  
 
- Задания и решения
+ Задания и решения:
 
-| 1 | Расчет адресов (binary, subnetting) |ip-1.md|
-| 3 | Multicast-запросы + анализ в Wireshark | multicast.pcap |
-| 4 | ARP-запросы + анализ в Wireshark | arp.md|
+Расчет адресов >> ip-1
+Развернута топология на базе Cisco 3745. (Настроены интерфейсы, проверена связность)
+Multicast-запросы + анализ в Wireshark >> multicast.pcap + multicast.
+ARP-запросы + анализ в Wireshark >> arp.pcap + arp.
 
 
  Как запустить / воспроизвести
