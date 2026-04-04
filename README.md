@@ -1,11 +1,11 @@
 # Network
-IP, ARP, ICMP, multicast, Static Routing, NTP, DNS, DHCP, SSH, Telnet, VLAN, 802.1q Trunk, EtherChannel, OSPF Dynamic Routing, HSRP Redundancy, SMB Traffic Analysis, Reverse Shell Detection, Packet Crafting with Scapy
+IP, ARP, ICMP, multicast, Static Routing, NTP, DNS, DHCP, SSH, Telnet, VLAN, 802.1q Trunk, EtherChannel, OSPF Dynamic Routing, HSRP Redundancy, SMB Traffic Analysis, Reverse Shell Detection, Packet Crafting with Scapy.
 
 Задания и решения:
 
-1.Расчет адресов >> ip-1
+1.Расчет адресов >> ip-1.
 
-2.Развернута топология на базе Cisco 3745. (Настроены интерфейсы, проверена связность)
+2.Развернута топология на базе Cisco 3745. (Настроены интерфейсы, проверена связность).
 
 3.Multicast-запросы + анализ в Wireshark >> multicast.pcap + multicast.
 
