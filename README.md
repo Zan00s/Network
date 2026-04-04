@@ -1,8 +1,5 @@
 # Network
-IP, ARP, ICMP, multicast, Static Routing, NTP, DNS, DHCP, SSH,
-
-Проект по изучению базовых сетевых протоколов: IP, ARP, ICMP, multicast.Настройке и анализу прикладных и инфраструктурных протоколов.  
-Среда: GNS3 + Wireshark.  
+IP, ARP, ICMP, multicast, Static Routing, NTP, DNS, DHCP, SSH, Telnet, VLAN, 802.1q Trunk, EtherChannel, OSPF Dynamic Routing, HSRP Redundancy, SMB Traffic Analysis, Reverse Shell Detection, Packet Crafting with Scapy
 
 Задания и решения:
 
